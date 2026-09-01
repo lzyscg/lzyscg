@@ -28,6 +28,12 @@
 
 `Python` `Feishu OpenAPI` `OAuth` `Automation`
 
+### [Dify AI 歌词工作流案例集](https://github.com/lzyscg/ai-lyrics-workflow-case-study)
+
+一组经过脱敏重构的 Dify 作词工作流案例，展示规划卡循环、分段生成、代码硬检、语义审核、单行返修和最终交付门禁。
+
+`Dify` `LLM Workflow` `Prompt Engineering` `Quality Gate` `Evaluation`
+
 ## 我在做什么
 
 - 可追踪、可审核、能处理失败路径的 Agent 产品。
