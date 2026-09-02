@@ -16,23 +16,23 @@
 
 `Vue 3` `ECharts` `Node.js` `JWT` `Data Visualization`
 
-### [多语种歌词转换工具](https://github.com/lzyscg/lyrics-converter)
-
-支持普通话拼音、粤语粤拼、英语音译、闽南语台罗和中文谐音替换的多端歌词转换工具，提供 CLI、Streamlit 与静态 HTML 版本。
-
-`Python` `Streamlit` `JavaScript` `NLP` `GitHub Actions`
-
-### [飞书多维表格同步工具](https://github.com/lzyscg/feishu-bitable-sync)
-
-配置驱动的飞书多维表格同步工具，支持分页、筛选、字段映射、去重、dry-run、状态流转、轮询和 OAuth Token 刷新。
-
-`Python` `Feishu OpenAPI` `OAuth` `Automation`
-
 ### [Dify AI 歌词工作流案例集](https://github.com/lzyscg/ai-lyrics-workflow-case-study)
 
 一组经过脱敏重构的 Dify 作词工作流案例，展示规划卡循环、分段生成、代码硬检、语义审核、单行返修和最终交付门禁。
 
 `Dify` `LLM Workflow` `Prompt Engineering` `Quality Gate` `Evaluation`
+
+### [Forge Core](https://github.com/lzyscg/Forge-core)
+
+本地单进程的多 Agent 内容生产平台。通过模板声明 Agent、Skill 与合法路由，在浏览器生产画布中呈现写作、审核、返修和交付过程，并以事件溯源、版本化产物与代码门禁保证流程可观察、可恢复、可验收。
+
+`TypeScript` `React` `Node.js` `Multi-Agent` `Event Sourcing` `Pi Runtime`
+
+### [多语种歌词转换工具](https://github.com/lzyscg/lyrics-converter)
+
+支持普通话拼音、粤语粤拼、英语音译、闽南语台罗和中文谐音替换的多端歌词转换工具，提供 CLI、Streamlit 与静态 HTML 版本。
+
+`Python` `Streamlit` `JavaScript` `NLP` `GitHub Actions`
 
 ## 我在做什么
 
